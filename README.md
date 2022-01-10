@@ -10,5 +10,4 @@
 <image src='Project-2/Project-2-10.png'/>
 <image src='Project-2/Project-2-11.png'/>
 <image src='Project-2/Project-2-12.png'/>
-<image src='Project-2/Project-2-13.png'/>
-<image src='Project-2/Project-2-014.png'/>
+<image src='Project-2/Project-2-14.png'/>
